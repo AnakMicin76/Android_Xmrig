@@ -1,2 +1,1 @@
-# micin
-Micin
+Android_Xmrig
